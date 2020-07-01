@@ -1,2 +1,4 @@
 tinder_env
 .vscode
+debug.log
+chromedriver.exe
